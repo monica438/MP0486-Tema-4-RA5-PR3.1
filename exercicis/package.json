@@ -1,0 +1,24 @@
+{
+  "name": "exercicis",
+  "version": "1.0.0",
+  "description": "pract uf3 m06",
+  "main": "src/exercici1.js",
+  "scripts": {
+    "exercici1": "node src/exercici1.js",
+    "exercici2": "node src/exercici2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "xml",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "exemple-mongodb": "file:",
+    "mongodb": "^5.1.0",
+    "xml2js": "^0.5.0"
+  }
+}

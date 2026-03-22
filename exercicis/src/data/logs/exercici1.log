@@ -1,0 +1,7 @@
+{"level":"info","message":"Connectat a MongoDB"}
+{"level":"info","message":"Llegint XML..."}
+{"level":"info","message":"Processant dades..."}
+{"level":"info","message":"Total preguntes: 10000"}
+{"level":"info","message":"Inserint dades..."}
+{"level":"info","message":"10000 documents inserits"}
+{"level":"info","message":"Connexió tancada"}
